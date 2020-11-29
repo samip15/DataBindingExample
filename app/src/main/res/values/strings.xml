@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+    <string-array name="names">
+        <item>Rama</item>
+        <item>Sam</item>
+        <item>Sameer</item>
+        <item>Laxman</item>
+        <item>Gita</item>
+        <item>Rita</item>
+        <item>Sita</item>
+    </string-array>
+    <string-array name="emails">
+        <item>rama@outlook.com</item>
+        <item>sam@xyx.com</item>
+        <item>sameer@gmail.com</item>
+        <item>laxman@facebook.com</item>
+        <item>gita@hotmail.com</item>
+        <item>rita@yahoo.com</item>
+        <item>sita@mail.com</item>
+    </string-array>
+</resources>
